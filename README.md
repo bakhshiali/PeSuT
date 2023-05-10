@@ -1,8 +1,8 @@
 # PeSuT
 VLC extension to translate english subtitle to persian using google translate.   
-افزونه VLC برای ترجمه زیرنویس انگلیسی به فارسی توسط گوگل ترنزلیت      
+افزونه وی‌ال‌سی برای ترجمه زیرنویس انگلیسی به فارسی توسط گوگل ترنزلیت      
 Idea(s): enjoying & learning other languages + watch just released movies + learn about lua codes   
-ایده(ها): لذت بردن و یادگیری زبان‌های دیگر + تماشای فیلم‌های تازه منتشرشده + یادگیری کدهای زبان برنامه‌نویسی لوا (lua)   
+ایده(ها): لذت بردن و یادگیری زبان‌های دیگر + تماشای فیلم‌های تازه منتشرشده + یادگیری کدهای زبان برنامه‌نویسی لوا   
 Developer(s): <a href="https://github.com/bakhshiali">Ali Bakhshi</a>   
 توسعه‌دهنده: علی بخشی   
 
