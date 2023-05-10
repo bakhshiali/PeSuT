@@ -5,6 +5,7 @@ Idea(s): enjoying & learning other languages + watch just released movies + lear
 ایده(ها): لذت بردن و یادگیری زبان‌های دیگر + تماشای فیلم‌های تازه منتشرشده + یادگیری کدهای زبان برنامه‌نویسی لوا (lua)
 Developer(s): <a href="https://github.com/bakhshiali">Ali Bakhshi</a>
 توسعه‌دهنده: علی بخشی
+
 How to use?
 ---
 INSTALLATION:   
