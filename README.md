@@ -6,14 +6,14 @@ Developer(s): <a href="https://github.com/bakhshiali">Ali Bakhshi</a>
 
 How to use?
 ---
-INSTALLATION:
-	Paste the file (PeSuT.lua) in the VLC sub-direction /lua/extensions
-	Default roots in defferent OS:
-	* Windows (all users): %ProgramFiles%\VideoLAN\VLC\lua\extensions\
-	* Windows (current user): %APPDATA%\VLC\lua\extensions\
-	* Linux (all users): /usr/share/vlc/lua/extensions/
-	* Linux (current user): ~/.local/share/vlc/lua/extensions/
-	* Mac OS X (all users): /Applications/VLC.app/Contents/MacOS/share/lua/extensions/
+INSTALLATION:   
+	Paste the file (PeSuT.lua) in the VLC sub-direction /lua/extensions   
+	Default roots in defferent OS:   
+	* Windows (all users): %ProgramFiles%\VideoLAN\VLC\lua\extensions\   
+	* Windows (current user): %APPDATA%\VLC\lua\extensions\   
+	* Linux (all users): /usr/share/vlc/lua/extensions/   
+	* Linux (current user): ~/.local/share/vlc/lua/extensions/   
+	* Mac OS X (all users): /Applications/VLC.app/Contents/MacOS/share/lua/extensions/   
 Notes
 ---
 	Note: create directories if it don't exist! & Restart the VLC!
