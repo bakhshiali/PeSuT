@@ -1,5 +1,5 @@
 # PeSuT
-VLC extension to translate english subtitle to persian using google translate.
+VLC extension to translate english subtitle to persian using google translate.   
 Idea(s): enjoying & learning other languages + watch just released movies + learn about lua codes
 
 Developer(s): <a href="https://github.com/bakhshiali">Ali Bakhshi</a>
