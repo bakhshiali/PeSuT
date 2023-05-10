@@ -14,6 +14,7 @@ INSTALLATION:
 	* Linux (all users): /usr/share/vlc/lua/extensions/   
 	* Linux (current user): ~/.local/share/vlc/lua/extensions/   
 	* Mac OS X (all users): /Applications/VLC.app/Contents/MacOS/share/lua/extensions/   
+	
 Notes
 ---
 	Note: create directories if it don't exist! & Restart the VLC!
